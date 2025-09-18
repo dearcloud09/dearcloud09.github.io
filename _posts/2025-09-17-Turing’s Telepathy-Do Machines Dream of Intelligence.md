@@ -74,8 +74,8 @@ This is what Françoise Sagan said about the relationship between art and realit
 ### References
 
 - Turing's papers: [https://academic.oup.com/mind/article-abstract/LIX/236/433/986238](https://academic.oup.com/mind/article-abstract/LIX/236/433/986238?redirectedFrom=fulltext)
-- Korean translation of Turing's papers
-- Anil Seth's *Being You*
+- [Korean translation of Turing's papers](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=216168748&start=slayer)
+- [Anil Seth's *Being You*](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299016507)
 - Françoise Sagan interview: [https://www.theparisreview.org/interviews/4912/the-art-of-fiction-no-15-francoise-sagan](https://www.theparisreview.org/interviews/4912/the-art-of-fiction-no-15-francoise-sagan)
 
 [한국어로 읽기](/기계는-지능의-꿈을-꾸는가)
