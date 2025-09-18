@@ -3,8 +3,8 @@
 
 entries:
   - title: about
+    url: about
     entries:
-      - title: welcome to my blog
       - title: github
         url: https://github.com/dearcloud09
       - title: linkedin
