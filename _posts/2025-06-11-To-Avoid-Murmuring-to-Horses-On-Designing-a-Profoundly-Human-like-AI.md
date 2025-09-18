@@ -99,4 +99,4 @@ So I tried other models, and I found that they maintained their own temperament 
 
 Furthermore, I tested various models like GPT-4o and o3 with the same prompt and found that the principles I proposed simulated more natural responses in models with superior reasoning abilities.
 
-[한국어로 읽기](/말에게-읊조리지-않기-위하여-지극히-인간스러운-AI-설계.html)
+[한국어로 읽기](/말에게-읊조리지-않기-위하여-지극히-인간스러운-ai-설계.html)
