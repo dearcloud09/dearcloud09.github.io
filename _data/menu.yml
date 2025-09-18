@@ -7,6 +7,10 @@ entries:
       - title: welcome to my blog
       - title: github
         url: https://github.com/dearcloud09
+      - title: linkedin
+        url: https://www.linkedin.com/in/dearcloud09/
+      - title: email
+        url: mailto:dearcloud09@gmail.com
 
   - title: posts
     post_list:
