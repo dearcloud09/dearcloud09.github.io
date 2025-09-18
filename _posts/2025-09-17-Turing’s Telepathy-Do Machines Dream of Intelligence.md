@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do Machines Dream of Intelligence?"
+title: "Turing’s Telepathy: Do Machines Dream of Intelligence?"
 date: 2025-09-17
 categories: [AI, philosophy]
 ---
