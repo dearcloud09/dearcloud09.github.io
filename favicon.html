@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f0f0f0;
+}
+.cloud {
+  width: 100px;
+  height: 60px;
+  background: #fff;
+  border-radius: 100px;
+  position: relative;
+}
+.cloud::before,
+.cloud::after {
+  content: '';
+  position: absolute;
+  background: #fff;
+  border-radius: 100px;
+}
+.cloud::before {
+  width: 50px;
+  height: 50px;
+  top: -25px;
+  left: 10px;
+}
+.cloud::after {
+  width: 60px;
+  height: 40px;
+  top: -15px;
+  right: 10px;
+}
+</style>
+</head>
+<body>
+<div class="cloud"></div>
+<p style="position: absolute; bottom: 20px;">
+Take a screenshot of the cloud and use it as favicon!
+</p>
+</body>
+</html>
