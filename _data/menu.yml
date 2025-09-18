@@ -1,0 +1,19 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about
+    entries:
+      - title: welcome to my blog
+      - title: github
+        url: https://github.com/dearcloud09
+
+  - title: posts
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: see all posts...
+      show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml

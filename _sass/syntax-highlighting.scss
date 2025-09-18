@@ -1,0 +1,100 @@
+// Syntax highlighting for code blocks
+// Based on Monokai theme
+
+.highlight {
+  background-color: #272822;
+  color: #f8f8f2;
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+  margin: 1rem 0;
+
+  pre {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+  }
+
+  code {
+    background-color: transparent;
+    padding: 0;
+  }
+
+  // Comments
+  .c, .cm, .cp, .c1, .cs {
+    color: #75715e;
+  }
+
+  // Keywords
+  .k, .kc, .kd, .kn, .kp, .kr, .kt {
+    color: #66d9ef;
+  }
+
+  // Strings
+  .s, .sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .s1 {
+    color: #e6db74;
+  }
+
+  // Numbers
+  .m, .mf, .mh, .mi, .il, .mo, .mb, .mx {
+    color: #ae81ff;
+  }
+
+  // Operators
+  .o, .ow {
+    color: #f92672;
+  }
+
+  // Functions, methods
+  .nf, .nb {
+    color: #a6e22e;
+  }
+
+  // Variables
+  .nv, .no, .vc, .vg, .vi {
+    color: #f8f8f2;
+  }
+
+  // Class names
+  .nc, .nn {
+    color: #a6e22e;
+  }
+
+  // Constants
+  .kc, .kt, .ne {
+    color: #66d9ef;
+  }
+
+  // Special
+  .nt {
+    color: #f92672;
+  }
+
+  // Attributes
+  .na {
+    color: #a6e22e;
+  }
+}
+
+// Dark mode adjustments
+body[a="dark"] .highlight {
+  background-color: #1e1e1e;
+
+  pre, code {
+    background-color: transparent;
+  }
+}
+
+// Inline code
+code.language-plaintext {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+body[a="dark"] code.language-plaintext {
+  background-color: #2d2d2d;
+  color: #f8f8f2;
+}
