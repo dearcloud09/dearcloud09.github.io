@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turing’s Telepathy: Do Machines Dream of Intelligence?"
+title: "Do Machines Dream of Intelligence?"
 date: 2025-09-17
 categories: [AI, philosophy]
 ---
@@ -78,4 +78,4 @@ This is what Françoise Sagan said about the relationship between art and realit
 - [Anil Seth's *Being You*](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299016507)
 - Françoise Sagan interview: [https://www.theparisreview.org/interviews/4912/the-art-of-fiction-no-15-francoise-sagan](https://www.theparisreview.org/interviews/4912/the-art-of-fiction-no-15-francoise-sagan)
 
-[한국어로 읽기](/기계는-지능의-꿈을-꾸는가)
+[한국어로 읽기](/튜링의-텔레파시-기계는-지능의-꿈을-꾸는가.html)
