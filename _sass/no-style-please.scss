@@ -1,51 +1,57 @@
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
-  background-color: #1a1a1a;
-  color: #e0e0e0;
+  background-color: #0d1117;
+  color: #c9d1d9;
 
   a {
-    color: #66b3ff;
+    color: #58a6ff;
   }
 
   a:visited {
-    color: #b19cd9;
+    color: #bc8cff;
   }
 
   code {
-    background-color: #2d2d2d;
-    color: #f8f8f2;
+    background-color: #161b22;
+    color: #e6edf3;
   }
 
   pre {
-    background-color: #2d2d2d;
+    background-color: #161b22;
   }
 
   blockquote {
-    border-color: #4a4a4a;
-    background-color: #252525;
+    border-color: #30363d;
+    background-color: #0d1117;
   }
 
   table, th, td {
-    border-color: #4a4a4a;
+    border-color: #30363d;
   }
 
   hr:before, hr:after {
-    color: #4a4a4a;
+    color: #30363d;
   }
 
   *:target {
-    background: #444;
-  }
-
-  img {
-    opacity: 0.9;
+    background: #1f6feb20;
   }
 }
 
-body[a="dark"] { @include dark-appearance; }
+body[a="dark"] {
+  @include dark-appearance;
+  &, html {
+    background-color: #0d1117;
+  }
+}
 
 @media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
+  body[a="auto"] {
+    @include dark-appearance;
+    &, html {
+      background-color: #0d1117;
+    }
+  }
 }
 // -------------------------------------------- //
 
