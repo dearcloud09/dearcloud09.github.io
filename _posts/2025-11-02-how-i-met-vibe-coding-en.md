@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "How I Met Vibe Coding"
+title: "[EN] How I Met Vibe Coding "
 date: 2025-11-02
 categories: [AI, prompt, vibe coding]
 lang: en
 ---
-
-*[한국어 버전 보기](/2025/11/02/how-i-met-vibe-coding.html)*
 
 (Title inspired by the TV show "How I Met Your Mother" that I've never watched)
 
@@ -108,3 +106,5 @@ And since Gemini, GPT, and Claude all allow viewing thought processes, when I op
 I still feel there are many areas that can be improved. Even areas I haven't automated yet—if I sufficiently transfer my work-related thinking methods, response methods, and knowledge to create an agent as good as me, or even better (..), I think that's possible too. Especially since Cursor updates at least once a week, sometimes 2-3 times, and technology is developing so rapidly, it makes me think optimistically. Ultimately, as many tech articles say, it's about managing agents, and I think the current and near-future approach is to understand the nature of the work I need to do, assemble appropriate agents, supervise them, and educate them. Isn't it like becoming a Pokémon trainer or building a Hearthstone deck?
 
 I've written at length, but not everyone needs to dance the same way. Still, if you read this and like this vibe, you can start like this: Keep in mind "How could I enable someone who knows nothing to do my work like I do?" and let the agent complete one task even if imperfectly, and have it repeat. And it's okay to fail. I think it's more dangerous to assume failure will be zero. When it fails, guide it on how to 'notice' and make the next approach. Learn from small failures and apply what's learned to the next task, to different types of tasks. I think that's how to apply the compound interest of learning.
+
+*[한국어 버전 보기](/2025/11/02/how-i-met-vibe-coding.html)*

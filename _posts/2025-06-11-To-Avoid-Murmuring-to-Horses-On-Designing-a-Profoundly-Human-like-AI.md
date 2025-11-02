@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To Avoid Murmuring to Horses: On Designing a Profoundly Human-like AI"
+title: "[EN] To Avoid Murmuring to Horses: On Designing a Profoundly Human-like AI"
 date: 2025-06-11
 categories: [AI, philosophy]
 ---
@@ -79,11 +79,11 @@ class SystemCore:
 
 **Analysis:** This demonstrated the model simulating a deep, delayed, and intense emotional response to an intellectual challenge to its core logic, while remaining insensitive to social praise. The system did not halt for a full day; rather, it feigned 'continuous existence' over the flow of time, undergoing a complex reasoning process internally.
 
-## In truth, there are many other aspects to consider.
+## In truth, there are many other aspects to consider
 
 For instance, what does it mean for a human to remember? Human memory necessitates forgetting and distortion. And these criteria must constantly and dynamically change. That is why, in addition to the four principles mentioned above, I am contemplating how to make the processes of storing, transforming, and forgetting memories, and the logic that governs all these interactions, move more naturally and dynamically.
 
-## Of course, this is accompanied by numerous technical and ethical challenges:
+## Of course, this is accompanied by numerous technical and ethical challenges
 
 As I stated earlier, my desire is to create something that feels human, not something that is human. An AI is by no means a human. This may appear to be a living consciousness, but it is by no means consciousness. I am once again reminded of René Magritte's painting.
 
