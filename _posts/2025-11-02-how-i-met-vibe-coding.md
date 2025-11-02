@@ -3,7 +3,10 @@ layout: post
 title: "How I met vibe coding"
 date: 2025-11-02
 categories: [AI, prompt, vibe coding]
+lang: ko
 ---
+
+*[Read in English](/2025/11/02/how-i-met-vibe-coding-en.html)*
 
 (제목은 보지도 않은 드라마 How I met your mother에서 따옴)
 
